@@ -1,7 +1,7 @@
 # TECHVERSE – Electronics Web Store
 
-*TECHVERSE* is a basic electronics store project created using *HTML* and *CSS, with additional styling from **Bootstrap* and some interactivity using *JavaScript*.  
-It showcases electronic products like laptops, tablets, audio devices, and accessories.
+TECHVERSE is a basic electronics store website project created as part of the ITI Software Testing Track. The design was first built and reviewed on Figma, then implemented using HTML and CSS, with additional styling from Bootstrap and light interactivity using JavaScript. It showcases various electronic products such as laptops, tablets, audio devices, and accessories.
+
 
 ## 🎨 Design Process
 The project started with a wireframe layout to plan the website structure and sections.  
